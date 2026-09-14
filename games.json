@@ -683,6 +683,10 @@
     "title": "Risk",
     "tier": "tasty"
   },
+    {
+    "title": "RHYTHMKILL",
+    "tier": "dislike"
+  },
   {
     "title": "Road 96",
     "tier": "like"
@@ -694,6 +698,10 @@
   {
     "title": "Rounds",
     "tier": "like"
+  },
+    {
+    "title": "Sensory Overload",
+    "tier": "playsoon"
   },
   {
     "title": "Rule34dle",
@@ -1521,7 +1529,7 @@
   },
   {
     "title": "FISH",
-    "tier": "playsoon"
+    "tier": "tasty"
   },
   {
     "title": "Game Quest: The Backlog Battler",
@@ -1681,7 +1689,7 @@
   },
   {
     "title": "Ori and the Will of the Wisps (M)",
-    "tier": "playsoonM"
+    "tier": "current"
   },
   {
     "title": "Unboxing the Cryptic Killer (M)",

@@ -533,8 +533,6 @@ h2 {
 #grid-really-like {
   display:block;
   column-gap: 15px;
-  margin-bottom: 30px;
-  break-inside: avoid;
   column-count: 2;
   /* grid-template-columns: repeat(2, 1fr); */ /* OLD ONE 2 equal columns */
 }
@@ -542,8 +540,6 @@ h2 {
 #grid-like, #grid-dislike, #grid-tasty {
   display: block;
   max-width: 1500px;
-  margin-bottom: 15px;
-  break-inside: avoid;
   column-gap: 15px;
   column-count: 3;	
   /* grid-template-columns: repeat(3, 1fr); */ /* OLD ONE 3 equal columns */
@@ -551,15 +547,21 @@ h2 {
 
 /* 3. Text Styling */
 #grid-really-like div {
+  margin-bottom: 15px;
+  break-inside: avoid;
   font-size: 24px;
   font-weight: bold;
 }
 
 #grid-like div {
+	  margin-bottom: 15px;
+	  break-inside: avoid;
   font-size: 20px;
 }
 
 #grid-tasty div {
+	  margin-bottom: 15px;
+	  break-inside: avoid;
   font-size: 19px;
 }
 
@@ -568,6 +570,8 @@ h2 {
 }
 
 #grid-dislike div {
+	  margin-bottom: 15px;
+	  break-inside: avoid;
   max-width: 1500px;
   font-size: 18px;
   color: #aaaaaa;

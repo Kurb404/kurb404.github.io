@@ -531,14 +531,22 @@ h2 {
 
 /* 2. Set Column Layouts */
 #grid-really-like {
-  grid-template-columns: repeat(2, 1fr); /* 2 equal columns */
+  display:block;
+  column-gap: 15px;
+  margin-bottom: 15px;
+  break-inside: avoid;
+  column-count: 2;
+  /* grid-template-columns: repeat(2, 1fr); */ /* OLD ONE 2 equal columns */
 }
 
 #grid-like, #grid-dislike, #grid-tasty {
   display: block;
   max-width: 1500px;
+  margin-bottom: 15px;
+  break-inside: avoid;
+  column-gap: 15px;
   column-count: 3;	
-  /* grid-template-columns: repeat(3, 1fr); */ /* 3 equal columns */
+  /* grid-template-columns: repeat(3, 1fr); */ /* OLD ONE 3 equal columns */
 }
 
 /* 3. Text Styling */

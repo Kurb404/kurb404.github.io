@@ -535,8 +535,10 @@ h2 {
 }
 
 #grid-like, #grid-dislike, #grid-tasty {
+  display: block;
   max-width: 1500px;
-  grid-template-columns: repeat(3, 1fr); /* 3 equal columns */
+  column-count: 3;	
+  /* grid-template-columns: repeat(3, 1fr); */ /* 3 equal columns */
 }
 
 /* 3. Text Styling */

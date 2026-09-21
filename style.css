@@ -522,7 +522,7 @@ h2 {
 /* 1. Base Grid Setup */
 .tier-grid {
   display: grid;
-  gap: 15px; /* Adds space between the games */
+  gap: 30px; /* Adds space between the games */
   max-width: 1000px; /* Controls how far out the columns spread */
   margin: 0 auto; /* Centers the entire grid container on the page */
   justify-items: center; /* Centers the text horizontally inside its column */
@@ -533,7 +533,7 @@ h2 {
 #grid-really-like {
   display:block;
   column-gap: 15px;
-  margin-bottom: 15px;
+  margin-bottom: 30px;
   break-inside: avoid;
   column-count: 2;
   /* grid-template-columns: repeat(2, 1fr); */ /* OLD ONE 2 equal columns */

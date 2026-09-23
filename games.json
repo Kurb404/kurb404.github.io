@@ -80,6 +80,10 @@
     "tier": "like"
   },
     {
+    "title": "Smash Hit",
+    "tier": "tasty"
+  },
+    {
     "title": "Dimraeth",
     "tier": "tasty"
   },
@@ -1597,11 +1601,11 @@
   },
   {
     "title": "Split Fiction (H)",
-    "tier": "current"
+    "tier": "onhold"
   },
   {
-    "title": "PEAK (P D)",
-    "tier": "current"
+    "title": "PEAK",
+    "tier": "like"
   },
   {
     "title": "Big Walk (H D M A)",

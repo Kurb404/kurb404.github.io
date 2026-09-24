@@ -1007,6 +1007,34 @@
     "title": "Narutodle",
     "tier": "tasty"
   },
+    {
+    "title": "Wordle",
+    "tier": "like"
+  },
+      {
+    "title": "Strands",
+    "tier": "tasty"
+  },
+        {
+    "title": "Connections",
+    "tier": "like"
+  },
+        {
+    "title": "MinuteCryptic",
+    "tier": "like"
+  },
+        {
+    "title": "Redactle",
+    "tier": "dislike"
+  },
+        {
+    "title": "Worldle",
+    "tier": "dislike"
+  },
+        {
+    "title": "Magnitudle",
+    "tier": "tasty"
+  },
   {
     "title": "Okami",
     "tier": "like"

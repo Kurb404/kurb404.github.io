@@ -1571,10 +1571,6 @@
     "title": "VHOLUME",
     "tier": "tasty"
    },
-    {
-    "title": "Locked & Loaded",
-    "tier": "comesoonM"
-   },
   {
     "title": "Escape Academy 2",
     "tier": "comesoonM"
@@ -1616,20 +1612,12 @@
     "tier": "comesoon"
   },
   {
-    "title": "Replaced",
-    "tier": "comesoon"
-  },
-  {
     "title": "Object Impermanence",
     "tier": "comesoon"
   },
   {
     "title": "Steins Gate VN",
     "tier": "playsoonSD"
-  },
-  {
-    "title": "Speedrunners 2",
-    "tier": "comesoonM"
   },
   {
     "title": "Undertale Plus",
@@ -1746,10 +1734,6 @@
     {
     "title": "Screenbound",
     "tier": "comesoon"
-  },
-    {
-    "title": "Shellshot Arena",
-    "tier": "comesoonM"
   },
       {
     "title": "Replaced",

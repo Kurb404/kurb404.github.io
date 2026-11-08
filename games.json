@@ -1608,10 +1608,6 @@
     "tier": "comesoon"
   },
   {
-    "title": "Neverway",
-    "tier": "comesoon"
-  },
-  {
     "title": "Persona 4 Revival",
     "tier": "comesoon"
   },
@@ -1729,11 +1725,11 @@
   },
       {
     "title": "Myst",
-    "tier": "onhold"
+    "tier": "playsoon"
   },
         {
     "title": "Wheelmates",
-    "tier": "comesoonM"
+    "tier": "playsoonM"
   },
           {
     "title": "Fields of Mistria (U)",

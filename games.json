@@ -1564,10 +1564,6 @@
     "tier": "dislike"
   },
     {
-    "title": "Burglin Gnomes (M H +)",
-    "tier": "playsoon"
-  },
-    {
     "title": "Become",
     "tier": "comesoon"
    },
@@ -1640,10 +1636,6 @@
     "tier": "comesoonM"
   },
   {
-    "title": "Ultimate Sheep Raccoon",
-    "tier": "playsoonM"
-  },
-  {
     "title": "Undertale Plus",
     "tier": "comesoon"
   },
@@ -1672,20 +1664,8 @@
     "tier": "playsoonSD"
   },
   {
-    "title": "Danganronpa: Trigger Happy Havoc",
-    "tier": "playsoonSD"
-  },
-  {
-    "title": "Love Eternal",
-    "tier": "playsoonSD"
-  },
-  {
     "title": "Little Witch in the Woods",
     "tier": "tasty"
-  },
-  {
-    "title": "UvsU",
-    "tier": "playsoon"
   },
   {
     "title": "Pikmin",
@@ -1700,15 +1680,7 @@
     "tier": "playsoon"
   },
   {
-    "title": "Resident Evil",
-    "tier": "playsoon"
-  },
-  {
     "title": "High on Life",
-    "tier": "playsoon"
-  },
-  {
-    "title": "Assassins Creed Series",
     "tier": "playsoon"
   },
   {
@@ -1720,7 +1692,7 @@
     "tier": "playsoon"
   },
   {
-    "title": "Tides of Tomorrow",
+    "title": "Cairn DLC",
     "tier": "playsoon"
   },
   {
@@ -1730,18 +1702,6 @@
   {
     "title": "MIO: Memories in Orbit",
     "tier": "playsoon"
-  },
-  {
-    "title": "The Hunter: Call of The Wild",
-    "tier": "playsoon"
-  },
-  {
-    "title": "One More Time: UT/DT",
-    "tier": "playsoon"
-  },
-  {
-    "title": "Burglin Gnomes (M H +)",
-    "tier": "playsoonM"
   },
   {
     "title": "Thick as Thieves (M H)",
@@ -1757,10 +1717,6 @@
   },
   {
     "title": "Unboxing the Cryptic Killer (M)",
-    "tier": "playsoonM"
-  },
-  {
-    "title": "We Were Here Together (S)",
     "tier": "playsoonM"
   },
   {
@@ -1799,10 +1755,6 @@
     "title": "Shellshot Arena",
     "tier": "comesoonM"
   },
-    {
-    "title": "Wobbly Life",
-    "tier": "playsoonM"
-  },
       {
     "title": "Replaced",
     "tier": "playsoon"
@@ -1814,10 +1766,6 @@
         {
     "title": "Another Door",
     "tier": "comesoonM"
-  },
-        {
-    "title": "Sunset Summit",
-    "tier": "playsoonM"
   },
           {
     "title": "Putt Party",
